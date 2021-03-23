@@ -2,6 +2,8 @@
 
 Code for the talk "Human-centric Abstractions in Julia and Python for Geophysical Simulation" at the 2021 Improving Scientific Software conference.
 
+This talk is about user interface design. Here's an example of an [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) script:
+
 ```julia
 using Oceananigans
 
